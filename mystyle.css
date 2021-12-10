@@ -1,0 +1,26 @@
+.container{
+	border: 1px solid red;
+	min-height: 800px;
+}
+
+.entete{
+	border: 1px solid green;
+	min-height: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.corps{
+	border: 1px solid blue;
+	min-height: 700px
+}
+.principal{
+	border: 1px solid orange;
+	text-align: center;
+	width: 40%;
+	margin: auto;
+	margin-top: 20%;
+}
+body{
+	background: #D0E4F5 url("media/") no-repeat scroll 0 0
+}
